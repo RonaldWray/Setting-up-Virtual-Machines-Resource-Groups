@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/IbHC7Pl.png"
+<img src="https://i.imgur.com/hyNV8rq.png"
 </p>
 
 <h1>Azure - Creating Resources and Virtual Machines</h1>
